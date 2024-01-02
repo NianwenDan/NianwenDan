@@ -1,6 +1,6 @@
 <h3>Nianwen Dan</h3>
-<a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NianwenDan&rank_icon=github"></a>
-<a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NianwenDan&layout=compact"></a>
+<a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NianwenDan&rank_icon=github&line_height=28&show_icons=true"></a>
+<a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NianwenDan&show_icons=true&layout=compact&theme=vue&langs_count=10"></a>
 
 #### LeetCode Stats
 
