@@ -6,4 +6,4 @@
 
 #### LeetCode Stats
 
-<a href="https://leetcode.com/Pigeon_D"><img alt="Stats" src="https://leetcode-stats-six.vercel.app/?username=Pigeon_D"></a>
+<a href="https://leetcode.com/Pigeon_D"><img alt="Stats" src="https://leetcard.jacoblin.cool/Pigeon_D?theme=light&font=JetBrains%20Mono&ext=heatmap"></a>
