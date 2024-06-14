@@ -6,8 +6,6 @@
 
 #### LeetCode Stats
 
-<a href="https://leetcode.com/Pigeon_D"><img alt="Stats" src="https://leetcard.jacoblin.cool/Pigeon_D?theme=light&font=JetBrains%20Mono&ext=heatmap"></a>
-
 <a href="https://leetcode.com/Pigeon_D">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Pigeon_D?theme=dark&font=BIZ%20UDGothic&ext=heatmap">
